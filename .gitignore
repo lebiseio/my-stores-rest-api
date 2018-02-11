@@ -1,0 +1,13 @@
+*~
+.*~
+.*.swp
+.*.swp.*
+*.pyc
+*.pyd
+__pycache__
+__pycache__/
+.DS_Store
+*.sqlite3
+*.sqlite3.*
+my-stores-rest-api
+j-stores-rest-api
